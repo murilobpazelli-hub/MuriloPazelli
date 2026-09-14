@@ -22,6 +22,4 @@ Estou constantemente aprofundando meus conhecimentos na área de desenvolvimento
 📫 Como me encontrar
 GitHub: @murilobpazelli-hub
 
-LinkedIn: Seu Perfil (opcional)
-
 E-mail: murilo.b.pazelli@gmail.com
